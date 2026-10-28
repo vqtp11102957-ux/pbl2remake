@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pbl2remake/pbl2remake.vcxproj" Id="5ba0372d-8cb9-4566-a0f6-dd3830f1bb1d" />
+</Solution>
